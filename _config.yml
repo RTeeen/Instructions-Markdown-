@@ -4,8 +4,8 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - 1)linuxVM.md
-  - 2)styleguide.md
-  - 4)SSHKey.md
+  - WSL.md
+  - Canva.md
+  - SSH.md
   - index.md
   - README.md
