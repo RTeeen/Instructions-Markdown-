@@ -9,3 +9,5 @@ include:
   - SSH.md
   - index.md
   - README.md
+
+theme: jekyll-theme-hacker
