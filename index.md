@@ -1,37 +1,101 @@
-## Welcome to GitHub Pages
+# **5 Instructions Topics**
 
-You can use the [editor on GitHub](https://github.com/RTeeen/Instructions-Markdown-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+1) How to install Linux sub-system (WSL) on windows. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2) How to create a style guide on Canva.
 
-### Markdown
+3) How to setup and use VSCode Extension LiveShare.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+4) How to setup your SSH Key on GitHub for cloning repository safely. (Mac)
 
-```markdown
-Syntax highlighted code block
+5) 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+## Setting up TOR Browser
 
-**Bold** and _Italic_ and `Code` text
+1.
+2.
 
-[Link](url) and ![Image](src)
-```
+> _We are going to implement a reader oriented document demonstrating the steps necessary to complete a certain task._ 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Who are the intended users?
 
-### Jekyll Themes
+- People who are looking to be anonymous on the internet.
+- People whom wish to access data not available on the world wide web.
+- People who have heard of the dark web and are curious Users.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RTeeen/Instructions-Markdown-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### What is their previous knowledge?
 
-### Support or Contact
+- Computer programmers
+- People semi-fluent(1-2 years) with a computer
+- Journalists
+- Politicians
+- Computer Hackers
+- People looking for free software
+- Criminal Activity
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### what software is needed
+
+- TOR (onion router)
+- VPN (nord, windScribe)
+- VPS or VM (Optional)
+
+
+#### What are the procedures?
+
+1) Download and install the TOR browser
+
+2) Turn on your VPN
+
+
+## How to create a style guide on Canva
+
+1.
+2. 
+
+> _We are going to implement a reader oriented document demonstrating the steps necessary to complete a certain task._ 
+
+
+#### Who are the intended users?
+
+- Companies looking too create style guides
+- Users of Canva
+- Entrepreneurs
+- Students in general
+- 
+- 
+#### What is their previous knowledge?
+
+- Experienced Users(2-3 years)
+- Moderate Users(1-2 years)
+- Novice Users(0-1 years)
+- Beginner User( > )
+#### what software is needed
+
+#### What are the procedures?
+
+<br/>
+
+## How to setup and use VSCode Extension liveshare.
+
+1.
+2. 
+
+> _We are going to implement a reader oriented document demonstrating the steps necessary to complete a certain task._ 
+
+
+#### Who are the intended users?
+
+- 
+- 
+- 
+
+#### What is their previous knowledge?
+
+
+#### what software is needed
+
+#### What are the procedures?
+
