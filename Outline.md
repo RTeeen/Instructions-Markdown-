@@ -1,15 +1,14 @@
 # **5 Instructions Topics**
 
-1) How to setup TOR to access the dark web with the onion router.
+1) 
 
 2) How to create a style guide on Canva.
 
 3) How to setup and use VSCode Extension liveshare.
 
-4) How to setup your SSH Key on Github for cloning repository safely.
+4) How to setup your SSH Key on Github for cloning repository safely. (Mac)
 
-
-5) 
+5) How to install Linux sub-system (WSL) on windows. 
 
 
 ---
