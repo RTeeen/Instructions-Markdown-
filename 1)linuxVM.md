@@ -19,7 +19,7 @@ ___
 ### 1. Introduction
 ___
 
-The Windows Subsystem for Linux allows us run a supported version of Linux in a windows environment. Although this would be a limited version of Linux and we won't be able to run any GUI interfaces such as Gnome or Xfce, it still supports all of the command line based apps such as MySQL, vim, Nano etc.
+The Windows Subsystem for Linux allows us run a supported version of Linux in a windows environment. Although this would be a limited version of Linux and we won't be able to run any GUI interfaces such as Gnome or Xfce; it still supports all of the command line based apps such as MySQL, vim, Nano etc.
 
 > 1.1 Is this for you?
 
@@ -41,7 +41,7 @@ You need to have the following ready before proceeding to the installation proce
 In the next section we will go over installing WSL.
 
 ___
-### 2. Simplified version 
+### <span style="font-family: 'Helvetica', sans-serif;"> 2. SIMPLFIED VERSION </span>
 ___
 
 > 2.1 Join the [Windows Insider Program](https://insider.windows.com/getting-started).
@@ -72,7 +72,7 @@ This command will automatically install Linux Ubuntu as the default distribution
 ```
 Your WSL should be ready after the restart. Open the installed Linux app and it should finalize the setup automatically.
 
-<img src="./assets/linux/Terminal.png" alt="CMD_ADMIN" /><br><br>
+<img src="./assets/linux/Terminal.png" alt="CMD_ADMIN" width="1000px" /><br><br>
 
 ___
 ### 3. Install WSL on Windows 10 manually
@@ -152,7 +152,7 @@ This command will set the default WSL version to 2 for every newly installed Lin
 
 Now your Windows is setup and ready to take in your new Linux OS as Sub-system running along with the Windows.
 
-To download your Linux distribution navigate to [Microsoft Store](https://aka.ms/wslstore) and search for your desired Linux. I will be using Ubuntu in this example.
+To download your Linux distribution navigate to [Microsoft Store](https://aka.ms/wslstore) and search for your desired Linux . I will be using Ubuntu in this example.
 
 Here is a list of supported Linux systems:
 
@@ -180,4 +180,4 @@ After, it should ask you a username and password only for this particular Linux 
 
 <img src="./assets/linux/UbuntuUser.png" alt="CMD_ADMIN" width="700px" /><br><br>
 
-Your Linux should be up and running after the intilazition.
+Your Linux should be up and running after the initializing.
