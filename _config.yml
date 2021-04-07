@@ -1,5 +1,5 @@
 plugins:
-  - jekyll-relative-links
+  - jekyll-relative-hacker
 relative_links:
   enabled: true
   collections: true
