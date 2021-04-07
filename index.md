@@ -1,14 +1,14 @@
 # **5 Instructions Topics**
 
-1) 
+1) How to install Linux sub-system (WSL) on windows. 
 
 2) How to create a style guide on Canva.
 
-3) How to setup and use VSCode Extension liveshare.
+3) How to setup and use VSCode Extension LiveShare.
 
-4) How to setup your SSH Key on Github for cloning repository safely. (Mac)
+4) How to setup your SSH Key on GitHub for cloning repository safely. (Mac)
 
-5) How to install Linux sub-system (WSL) on windows. 
+5) 
 
 
 ---

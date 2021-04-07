@@ -103,11 +103,11 @@ If you want to keep using WSL1, You can restart your computer now and jump to se
 In order to run WSL 2 you need to have a certain version of windows or higher based on your system architecture type.
 To check your system type use the command prompt window from the last step and enter the following command:
 ```
-    wmic OS get OSArchitecture
+    systeminfo | find "System Type"
 ```
 Then you can check the version of your windows using the command below in the PowerShell:
 ```
-    systeminfo | find "System Type"
+    ver
 ```
 Now according to the table below, check if your windows needs to be updated before switching to WSL2.
 
