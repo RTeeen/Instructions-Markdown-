@@ -33,7 +33,7 @@ You need to have the following ready before proceeding to the installation proce
     - Update the windows for simplified installation (Optional)<br>
     - Update the windows for WSL 2 (Optional)
 
-- Have access to admin privileges 
+- Have access to admin privileges on Windows PowerShell and CMD.
 - Access to Microsoft Store
 - Access to internet
 
@@ -63,13 +63,13 @@ You can update your windows from Startup menu by searching "windows update" and 
 After the following requirements are in place, open the windows command prompt (CMD) with administrator privileges from the Startup menu .
 
 <img src="./assets/linux/CMD_ADMIN.png" alt="CMD_ADMIN" width="700"/><br><br>
-
+```
     wsl --install
-
+```
 This command will automatically install Linux Ubuntu as the default distribution. If you want to install a different distribution, you can add a flag to the same command as following:
-
+```
     wsl --install -d /Distribution Name/
-
+```
 Your WSL should be ready after the restart. Open the installed Linux app and it should finalize the setup automatically.
 
 <img src="./assets/linux/Terminal.png" alt="CMD_ADMIN" /><br><br>
@@ -89,9 +89,9 @@ Search "powershell" in the Startup menu and run PowerShell as an administrator.
 <img src="./assets/linux/Powershell.png" alt="CMD_ADMIN" width="700px" /><br><br>
 
 **Enter the following command to enable Linux Subsystem on your device.**
-
+```
     dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart 
-    
+``` 
 <br>
 
 <img src="./assets/linux/WSLENABLE.png" alt="CMD_ADMIN" width="700px" /><br><br>
@@ -102,13 +102,13 @@ If you want to keep using WSL1, You can restart your computer now and jump to se
 
 In order to run WSL 2 you need to have a certain version of windows or higher based on your system architecture type.
 To check your system type use the command prompt window from the last step and enter the following command:
-
+```
     wmic OS get OSArchitecture
-
-Then you can check the version of your windows using the command below in CMD:
-
-    ver
-
+```
+Then you can check the version of your windows using the command below in the PowerShell:
+```
+    systeminfo | find "System Type"
+```
 Now according to the table below, check if your windows needs to be updated before switching to WSL2.
 
 | System Type | Min Version  | Min Build   |
@@ -120,4 +120,64 @@ Now according to the table below, check if your windows needs to be updated befo
 
 > **3.3 Enable Virtual Machine feature**
 
-Using the same powershell window from the last steps, run the following command to enable the Windows Hyper V feature to run the Linux as a virtual machine.
+Using the same PowerShell window from the last steps, run the following command to enable the Windows Hyper V feature to run the Linux as a virtual machine.
+```
+    dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+```
+After the installation is complete you can restart your computer to complete the installation.
+
+> **3.4 Download the Linux kernel update package**
+
+Now based on your system structure on section 3.2, you need to download and install the compatible Linux kernel package update using the links below:
+
+-[ x64 machines](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi)
+
+-[ ARM64 machines](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_arm64.msi)
+
+After downloading the file, simply open the executable file and follow the wizard to complete the installation.
+
+Now you can go ahead and set your WSL version to 2.
+
+> **3.5 Set WSL 2 as your default version**
+
+Using the PowerShell window from the last steps, execute the following command.
+
+```
+wsl --set-default-version 2
+```
+
+This command will set the default WSL version to 2 for every newly installed Linux now.
+
+> **3.6 Install your Linux distribution of choice**
+
+Now your Windows is setup and ready to take in your new Linux OS as Sub-system running along with the Windows.
+
+To download your Linux distribution navigate to [Microsoft Store](https://aka.ms/wslstore) and search for your desired Linux. I will be using Ubuntu in this example.
+
+Here is a list of supported Linux systems:
+
+- Ubuntu 16.04 LTS
+- Ubuntu 18.04 LTS
+- Ubuntu 20.04 LTS
+- openSUSE Leap 15.1
+- SUSE Linux Enterprise Server 12 SP5
+- SUSE Linux Enterprise Server 15 SP1
+- Kali Linux
+- Debian GNU/Linux
+- Fedora Remix for WSL
+- Pengwin
+- Pengwin Enterprise
+- Alpine WSL
+
+<br>
+<br>
+
+<img src="./assets/linux/MSStore.png" alt="CMD_ADMIN" width="700px" /><br><br>
+
+When you open your Linux for the first time, it might take a while to decompress all the packages and complete the installation but you just wait for this once.
+
+After, it should ask you a username and password only for this particular Linux environment.
+
+<img src="./assets/linux/UbuntuUser.png" alt="CMD_ADMIN" width="700px" /><br><br>
+
+Your Linux should be up and running after the intilazition.
