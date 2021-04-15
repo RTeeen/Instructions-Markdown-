@@ -6,7 +6,7 @@
 2. [Create an installation disk](#part1)
     1. Download the Linux Distribution of your Choice
     2. Download and install __Rufus__ to create a bootable installer
-    3. Apply the right configurations and start the process.
+    3. Choose the USB drive and Installer file to create bootable USB. 
 3. [Boot into the Linux installer](#part2)
     1. Change the boot order in motherboard's BIOS
     2. Boot from the USB drive to begin the Linux installation process.
