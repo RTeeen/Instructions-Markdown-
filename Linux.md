@@ -19,7 +19,7 @@ Linux is a very popular OS in the world. It has some benefits that makes it outs
 
 > ### 1.1 Is this for you?
 
-You might have to go to different places for work everyday and carry your computer with you or, maybe you are a Cyber Security ****** who needs to test the security by attacking the servers using different machines. If you don't have your system with you, you won't be able to access your files, test suites and all the apps you need, to get through your day at work. In this guide, I will show you how to create a bootable USB stick with Linux installed on it which would be bootable from any computer. In another word, your personal files and operating system on other people's hardware with just plugging a USB stick.
+You might have to go to different places for work everyday and carry your computer with you or, maybe you are a Cyber Security ****** who needs to test the security by attacking the servers using different machines. If you don't have your system with you, you won't be able to access your files, test suites and all the apps you need, to get through your day at work. In this guide, I will show you how to create a bootable USB stick with Linux installed on it which would be bootable from any computer. In other words, your personal files and operating system are on another person's hardware, just by plugging in a USB stick.
 
 > ### 1.2 Prerequisites
 
