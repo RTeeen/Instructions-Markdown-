@@ -1,6 +1,14 @@
+<div style="display:flex; justify-content: space-between;">
+<a><button style="width:100px; height:30px;"></button></a>
+<a><button style="width:100px; height:30px;"></button></a>
+<a><button style="width:100px; height:30px;"></button></a>
+<a><button style="width:100px; height:30px;"></button></a>
+<a><button style="width:100px; height:30px;"></button></a>
+</div>
+
 # **5 Instructions Topics**
 
-1) How to install Linux sub-system (WSL) on windows. 
+1) How to install Linux sub-system (WSL) on windows.  
 
 2) How to create a installer media disk for any Linux.
 
