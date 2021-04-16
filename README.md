@@ -84,29 +84,31 @@
     5. Boot from the USB drive to begin the Linux installation process.
 
 
-
-## How to create a style guide on Canva
-
-1.
-2. 
+## How to install and setup Ditto Clipboard for Widows 10.
 
 > _We are going to implement a reader oriented document demonstrating the steps necessary to complete a certain task._ 
 
 
 #### Who are the intended users?
 
-- Companies looking too create style guides
-- Users of Canva
-- Entrepreneurs
-- Students in general
-- 
-- 
+- People who want to save their copy/paste history.
+- Designers and Developers who need their keyboard history for their projects.
+- People looking to copy and paste more efficently.
+
 #### What is their previous knowledge?
 
-- Experienced Users(2-3 years)
-- Moderate Users(1-2 years)
-- Novice Users(0-1 years)
-- Beginner User( > )
+- High understanding (Just here for the trick)
+- Regular users (Designers and simple developers)
+- People with no background about computers who want to explore more clipboard options.
+
 #### what software is needed
 
+- Windows 10
+- Microsoft Store
+
 #### What are the procedures?
+
+1. Install Ditto from the Microsoft Store
+2. Set up Ditto for use by putting it onto the taskbar.
+3. Set up keyboard shortcuts for more efficeint use.
+4. Change the storage count to allow for almost infinite clipboard history.
