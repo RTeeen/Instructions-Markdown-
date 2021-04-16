@@ -1,9 +1,28 @@
 
-
-
+ 
 1. [Introduction](#Intro)
     1. Is this for you?
     2. Prerequisites
+
+2. [Launch your "Xbox Game Bar" application](#Task1)
+    1.  in the task bar, search for Xbox Game Bar 
+    2.  Launch the game bar
+
+3. [Screen Capture the desired clip](#Task2)
+    1.  Find the capture window
+    2.  Click the record button
+    3.  Confirm th status of your recording
+    4. Click the stop button to finish recording your clip
+    5. click the pop-up notification
+    6. Watch your recording
+
+3. [ Configure your Hot Key Settings](#Task3)
+    1.  Go to task bar and search for "game bar setting"
+    2.  Configure your hot key shortcut
+
+4. [Conclusion](#outro)
+
+
 
 <br>
 
