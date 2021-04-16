@@ -12,7 +12,7 @@
 3. [Screen Capture the desired clip](#Task2)
     1.  Find the capture window
     2.  Click the record button
-    3.  Confirm th status of your recording
+    3.  Confirm the status of your recording
     4. Click the stop button to finish recording your clip
     5. click the pop-up notification
     6. Watch your recording
