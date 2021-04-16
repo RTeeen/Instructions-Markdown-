@@ -76,7 +76,7 @@ The first step to launching your "Xbox Game Bar" application is to go down to th
 <br>
 <br>
 
->1. Go to the task bar and within the search field type "Xbox Game Bar".
+>1) Go to the task bar and within the search field type "Xbox Game Bar".
 
 <br>
 
@@ -84,7 +84,7 @@ The first step to launching your "Xbox Game Bar" application is to go down to th
 
 <br>
 
->2. Launch the app by clicking on the "Xbox Game Bar" application. 
+>2) Launch the app by clicking on the "Xbox Game Bar" application. 
 
  <br>
   
@@ -123,7 +123,7 @@ Now that you have launched your Xbox Game Bar, you must find the capture window 
 <br>
 <br>
 
->1. Find the capture window in top left of your screen.
+>1) Find the capture window in top left of your screen.
 
 <br>
 
@@ -131,7 +131,7 @@ Now that you have launched your Xbox Game Bar, you must find the capture window 
 
 <br>
 
->2. Click the record button located near the middle of the capture window to start your recording.
+>2) Click the record button located near the middle of the capture window to start your recording.
 
  <br>
   
@@ -139,7 +139,7 @@ Now that you have launched your Xbox Game Bar, you must find the capture window 
 
 <br>
 
->3. Confirm that your screen is successfully recording, indicated by the red recording button that should be located on the right side of your screen. 
+>3) Confirm that your screen is successfully recording, indicated by the red recording button that should be located on the right side of your screen. 
 
 <br>
 
@@ -147,7 +147,7 @@ Now that you have launched your Xbox Game Bar, you must find the capture window 
 
 <br>
 
->4. Once your done with your recording, Click the stop button, and your clip will be officially recorded. 
+>4) Once your done with your recording, Click the stop button, and your clip will be officially recorded. 
 
 
 <br>
@@ -166,7 +166,7 @@ Now that you have launched your Xbox Game Bar, you must find the capture window 
 
 
 
->5. Click on the "Game Clip Recorded" notification that appears to open up file explorer
+>5) Click on the "Game Clip Recorded" notification that appears to open up file explorer
 
 <br>
 
@@ -174,7 +174,7 @@ Now that you have launched your Xbox Game Bar, you must find the capture window 
 
 <br>
 
->6. Here you can watch your recording from the file explorer, move your recording to a preferred folder, or delete your recording.
+>6) Here you can watch your recording from the file explorer, move your recording to a preferred folder, or delete your recording.
 
 <br>
 
@@ -193,7 +193,7 @@ Upon successfully learning to capture your screen, you can now configure your ho
 <br>
 <br>
 
->1. Go to the task bar and within the search field type "game bar settings". Click on the game bar settings app.
+>1) Go to the task bar and within the search field type "game bar settings". Click on the game bar settings app.
 
 <br>
 
@@ -201,7 +201,7 @@ Upon successfully learning to capture your screen, you can now configure your ho
 
 <br>
 
->2. Once you click on game bar settings, you'll be directed to a the settings page where you can adjust all sorts of xbox game bar settings. This includes changing the hot key shortcuts. You can also set hot key for recording or for taking a screenshot. 
+>2) Once you click on game bar settings, you'll be directed to a the settings page where you can adjust all sorts of xbox game bar settings. This includes changing the hot key shortcuts. You can also set hot key for recording or for taking a screenshot. 
 
  <br>
   
