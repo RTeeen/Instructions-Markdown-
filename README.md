@@ -97,9 +97,9 @@ This documentation is made to discuss 5 essential tools in Windows that you need
 
 [Create a bootable USB stick on Windows 10: Ubuntu](https://ubuntu.com/tutorials/create-a-usb-stick-on-windows)
 
-[How to install Windows Subsystem for Linux: Windows Central](https://www.windowscentral.com/install-windows-subsystem-linux-windows-10)
+[How to Create a Bootable Linux USB Flash Drive, the Easy Way: How to Geek](https://www.howtogeek.com/howto/linux/create-a-bootable-ubuntu-usb-flash-drive-the-easy-way/)
 
-[How to install WSL: Code Fellows](https://codefellows.github.io/setup-guide/windows/)
+[Rufus documentation: Rufus](https://rufus.ie/en_US/)
 
 ## 3) How to install and setup Ditto Clipboard for Windows 10.
 
