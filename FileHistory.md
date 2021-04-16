@@ -61,7 +61,21 @@ To backup our files using Windows File history, first we need to select the driv
 
 > ### 2.3 Manage your backup list
 
+Next, you can add or remove folders to our backup watchlist manually. 
 
+- Click on a folder name and select "Remove" to stop File History to create backups from that device.
+
+- Click on "Add Files" to add a new folder to the backup list.
+
+<img src="./assets/FileHistory/Backup4.png" alt="CMD_ADMIN" width="700px" /><br>
+
+> ### 2.4 Backup your files
+
+Now that you added your folders to the list, You can initiate the backup process by clicking on the "Backup now" button under the Overview section at the top.
+
+<img src="./assets/FileHistory/Backup5.png" alt="CMD_ADMIN" width="700px" /><br>
+
+Congratulations! You files are safe now!
 
 ___
 ## 3. Restore files using Windows File History
