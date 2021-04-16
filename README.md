@@ -1,7 +1,7 @@
 <div style="display:flex; justify-content: space-between;">
-<a><button style="width:100px; height:30px;"></button></a>
-<a><button style="width:100px; height:30px;"></button></a>
-<a><button style="width:100px; height:30px;"></button></a>
+<a href="/WSL"><button style="width:100px; height:30px;">WSL</button></a>
+<a href="/Linux"><button style="width:120px; height:30px;">Media Creation</button></a>
+<a href="/Ditto"><button style="width:120px; height:30px;">Ditto Clipboard</button></a>
 <a><button style="width:100px; height:30px;"></button></a>
 <a><button style="width:100px; height:30px;"></button></a>
 </div>
