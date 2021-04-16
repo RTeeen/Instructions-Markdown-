@@ -36,7 +36,7 @@ ___
 
 In order to create a bootable installation disk, we need to choose a Linux distribution to install. You can download your desired Linux distribution in .iso format from their websites. You can find the websites simply by searching the distribution names in Google. I will be using Ubuntu in this instructions and this is a link to [Linux Ubuntu download](https://ubuntu.com/download/desktop) page.
 
-1. Navigate to the Ubuntu download page and download the .iso file and save it on your pc.
+1) Navigate to the Ubuntu download page and download the .iso file and save it on your pc.
 
 <img src="./assets/USBLinux/Ubuntu-download.png" alt="CMD_ADMIN" width="700px" /><br><br>
 
@@ -46,19 +46,19 @@ There are so many software to use for creating a bootable media disk. But, I wou
 
 To create a bootable USB drive, we need to download [Rufus](https://rufus.ie/en_US/). 
 
-2. Navigate to the website and download the portable version.
+2) Navigate to the website and download the portable version.
 
 <img src="./assets/USBLinux/Rufus-download.png" alt="CMD_ADMIN" width="700px" /><br><br>
 
-3. After the download is finished, plug in the USB with smaller storage and open Rufus by double clicking on it. 
+3) After the download is finished, plug in the USB with smaller storage and open Rufus by double clicking on it. 
 
-4. Select your USB drive in the first field and the Linux iso file in the second field.
+4) Select your USB drive in the first field and the Linux iso file in the second field.
 
-5. Next, make sure you set the file system on FAT32 and the quick format box is checked under the advanced format options.
+5) Next, make sure you set the file system on FAT32 and the quick format box is checked under the advanced format options.
 
 <img src="./assets/USBLinux/Rufus-main.png" alt="CMD_ADMIN" width="500px"/><br><br>
 
-6. if you get the following pop ups, press "OK" to proceed (Any data on the USB device will be deleted).
+6) if you get the following pop ups, press "OK" to proceed (Any data on the USB device will be deleted).
 
 <img src="./assets/USBLinux/Rufus-Popup.png" alt="CMD_ADMIN" width="500px"/><br><br>
 
@@ -83,15 +83,15 @@ Every motherboard company has a specific key for loading the BIOS settings. Some
 
 You can search the model of your motherboard, look at the manual or just test and try to find the designated key. After you found the key, you can proceed to the next step.
 
-1. Restart your computer and keep pressing the BIOS setting key.
+1) Restart your computer and keep pressing the BIOS setting key.
 
 If you press the right key at the right time, this is how most of BIOS settings would look like.
 
-2. Find the settings regarding the boot device priority to set the "removable devices" (Some motherboard actually show the device name) as the first device to boot.
+2) Find the settings regarding the boot device priority to set the "removable devices" (Some motherboard actually show the device name) as the first device to boot.
 
 <img src="./assets/USBLinux/Boot.jpg" alt="CMD_ADMIN" width="500px"/><br><br>
 
-3. Use the legend on the bottom of the screen to **Save and Exit** from this settings.
+3) Use the legend on the bottom of the screen to **Save and Exit** from this settings.
 
 Your computer should restart and you should see the Ubuntu Installer starting.
 

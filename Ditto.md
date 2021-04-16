@@ -54,25 +54,25 @@ ___
 <br>
 Microsoft store is one of those features that comes automatically installed on Windows 10. It gives us direct access to applications produced by Microsoft that do not come installed on the computer. <br><br>
 
-1. Navigate to the bottom left of your desktop. On the navbar, click on the start button.  <br><br>
+1) Navigate to the bottom left of your desktop. On the navbar, click on the start button.  <br><br>
 
 
 <img src="./assets/Ditto/MarkdownInstructions1.png" alt="CMD_ADMIN" width="700px" /><br>
 
-2. Scroll down until you find "Microsoft Store". Click on it. <br><br>
+2) Scroll down until you find "Microsoft Store". Click on it. <br><br>
 
 <img src="./assets/Ditto/MarkdownInstructions2.png" alt="CMD_ADMIN" width="700px" /><br><br>
 
-3. In the top right of the Microsoft Store App, click on search.
+3) In the top right of the Microsoft Store App, click on search.
 
 <img src="./assets/Ditto/MarkdownInstructions3.png" alt="CMD_ADMIN" width="700px" /><br><br>
 
-4. Type in "Ditto" and press on the Ditto icon that appears. <br> **Note: If the dropdown menu does not appear, click on the magnifying glass, and select Ditto from the list.**
+4) Type in "Ditto" and press on the Ditto icon that appears. <br> **Note: If the dropdown menu does not appear, click on the magnifying glass, and select Ditto from the list.**
 
 <br>
 <img src="./assets/Ditto/MarkdownInstructions4.png" alt="CMD_ADMIN" width="700px" /><br>
 
-5. Click on the blue install button to install Ditto, then move onto the next part. <br><br>
+5) Click on the blue install button to install Ditto, then move onto the next part. <br><br>
 
 <img src="./assets/Ditto/MarkdownInstructions5.png" alt="CMD_ADMIN" width="700px" /><br><br>
 
@@ -85,27 +85,27 @@ Ditto is now installed! We can now move forward to figuring out how to use it.
 
 Ditto is essentially ready to be used the moment you install it, however, there are a few things we will want to do to make sure we know how to use it. Let us add Ditto to our task bar for more efficient use.<br><br>
 
-1. To add Ditto to your task bar, click on the three dots next to the launch button, and select "pin to taskbar".<br><br>
+1) To add Ditto to your task bar, click on the three dots next to the launch button, and select "pin to taskbar".<br><br>
 
 
 <img src="./assets/Ditto/MarkdownInstructions6.png" alt="CMD_ADMIN" width="700px" /><br><br>
 
-2. Click on the Ditto icon on the taskbar to open it. 
+2) Click on the Ditto icon on the taskbar to open it. 
 
 <br>
 <img src="./assets/Ditto/MarkdownInstructions7.png" alt="CMD_ADMIN" width="700px" /><br><br>
 
-3. Nothing should happen right away. Look on the right side of the taskbar. There is an upward arrow that is filled with different apps running behind the scenes. Click on the arrow to open it, and click on the Ditto icon.
+3) Nothing should happen right away. Look on the right side of the taskbar. There is an upward arrow that is filled with different apps running behind the scenes. Click on the arrow to open it, and click on the Ditto icon.
 
 <br>
 <img src="./assets/Ditto/MarkdownInstructions8.png" alt="CMD_ADMIN" width="700px" /><br><br>
 
-4. Now we will see what Ditto looks like. Its a small window that is mostly white, and should be empty because we have not copied anything to our clipboard yet. 
+4) Now we will see what Ditto looks like. Its a small window that is mostly white, and should be empty because we have not copied anything to our clipboard yet. 
 
 <br>
 <img src="./assets/Ditto/MarkdownInstructions9.png" alt="CMD_ADMIN" width="700px" /><br><br>
 
-5. Now you can copy anything you want, and when it goes to your clipboard, it also goes to Ditto! This is what it should look like after you copy some text, and then copy an image.
+5) Now you can copy anything you want, and when it goes to your clipboard, it also goes to Ditto! This is what it should look like after you copy some text, and then copy an image.
 
 <br>
 <img src="./assets/Ditto/MarkdownInstructions10.png" alt="CMD_ADMIN" width="700px" /><br><br>
@@ -131,7 +131,7 @@ After saving a few items to your clipboard, your Ditto should have a few objects
 
 <br>
 
-1. The first way to work with these objects is the most useful. We are going to copy the objects that we want. Select multiple objects in Ditto using ctrl + left click. You will notice a thin blue highlight that is applied when you click on the object. This means the object has been interacted with. from here we can simply hit ctrl + c. We notice that by copying the objects to our clipboard, they do not get re-copied to Ditto. Ditto is not redundant in that way.
+1) The first way to work with these objects is the most useful. We are going to copy the objects that we want. Select multiple objects in Ditto using ctrl + left click. You will notice a thin blue highlight that is applied when you click on the object. This means the object has been interacted with. from here we can simply hit ctrl + c. We notice that by copying the objects to our clipboard, they do not get re-copied to Ditto. Ditto is not redundant in that way.
 
 
 <br>
@@ -145,13 +145,13 @@ Copying multiple objects at once has its benefits. Now that we can do that, let 
 Now I will show you that we can change the keyboard shortcuts to allow us to work with Ditto more effectively. 
 <br><br>
 
-1. Click on the 3 dots in the bottom right of the Ditto software. This will open a menu, at the top of the menu, click options.
+1) Click on the 3 dots in the bottom right of the Ditto software. This will open a menu, at the top of the menu, click options.
 
 
 <br>
 <img src="./assets/Ditto/MarkdownInstructions12.png" alt="CMD_ADMIN" width="700px" /><br><br>
 
-2. This leads to an options page. Navigate to keyboard shortcuts. Here, you can set your start command and your custom copy and paste commands. These work in places where regular ctrl + c and ctrl + v commands are not available. When you are done, press ok at the bottom of the screen.
+2) This leads to an options page. Navigate to keyboard shortcuts. Here, you can set your start command and your custom copy and paste commands. These work in places where regular ctrl + c and ctrl + v commands are not available. When you are done, press ok at the bottom of the screen.
 
 
 <br>
@@ -168,11 +168,11 @@ Now that I have shown you keyboard shortcuts, we will go over bonus options.
 In this section, I will go over how to change the storage in Ditto of Ditto Objects. Sometimes we may need t ostore things for a long time, or, forever. These are both possible with Ditto.
 <br><br>
 
-1. Click on the three dots in the bottom right corner of the Ditto software again. Click options at the top of the menu that pops up. Once in the options screen again, navigate to the general tab.
+1) Click on the three dots in the bottom right corner of the Ditto software again. Click options at the top of the menu that pops up. Once in the options screen again, navigate to the general tab.
 
 <br>
 
-2. Once you are on the general tab, you can now change the amount of copies that are saved, or remove a maximum amount entirely. Click inside the box that says 500, and change it to the amount you want.
+2) Once you are on the general tab, you can now change the amount of copies that are saved, or remove a maximum amount entirely. Click inside the box that says 500, and change it to the amount you want.
 
 <br>
 <img src="./assets/Ditto/MarkdownInstructions14.png" alt="CMD_ADMIN" width="700px" /><br><br>
