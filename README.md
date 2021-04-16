@@ -3,7 +3,7 @@
 <a href="/Instructions-Markdown-/Linux"><button style="background-color: green; color:black; border-radius:20px;  width:120px; height:60px;">Media Creation</button></a>
 <a href="/Instructions-Markdown-/Ditto"><button style="background-color: blue; color:black; border-radius:20px; width:120px; height:60px;"><strong>Ditto Clipboard</strong></button></a>
 <a href="/Instructions-Markdown-/screenCapture"><button style=" background-color: yellow; color:black; border-radius:20px; width:120px; height:60px;">Screen Capture</button></a>
-<a><button style="width:100px; height:30px;"></button></a>
+<a href="/Instructions-Markdown-/FileHistory"><button style=" background-color: wheat; color:black; border-radius:20px; width:120px; height:60px;">File History</button></a>
 </div>
 
 # **5 Instructions Topics**
@@ -14,9 +14,9 @@
 
 3) How to install and setup Ditto Clipboard for Widows 10.
 
-4) . (Mac)
+4) How to Use Xbox Game Bar to Screen Capture on Windows OS
 
-5) .
+5) How to Backup and Restore your files with file history.
 
 
 ## How to install Linux sub-system (WSL) on windows. 
@@ -78,7 +78,7 @@
 #### What are the procedures?
 
     1. Download the Linux Distribution of your Choice
-    2. Download and install __Rufus__ to create a bootable installer
+    2. Download and install Rufus to create a bootable installer
     3. Choose the USB drive and Installer file to create bootable USB. 
     4. Change the boot order in motherboard's BIOS
     5. Boot from the USB drive to begin the Linux installation process.
@@ -93,7 +93,7 @@
 
 - People who want to save their copy/paste history.
 - Designers and Developers who need their keyboard history for their projects.
-- People looking to copy and paste more efficently.
+- People looking to copy and paste more efficiently.
 
 #### What is their previous knowledge?
 
@@ -108,7 +108,62 @@
 
 #### What are the procedures?
 
-1. Install Ditto from the Microsoft Store
-2. Set up Ditto for use by putting it onto the taskbar.
-3. Set up keyboard shortcuts for more efficeint use.
-4. Change the storage count to allow for almost infinite clipboard history.
+    1. Install Ditto from the Microsoft Store
+    2. Set up Ditto for use by putting it onto the taskbar.
+    3. Set up keyboard shortcuts for more efficient use.
+    4. Change the storage count to allow for almost infinite clipboard history.
+
+
+## How to Use Xbox Game Bar to Screen Capture on Windows OS
+
+> _We are going to implement a reader oriented document demonstrating the steps necessary to complete a certain task._
+
+#### Who are the intended users?
+
+- Anyone with a Windows OS who wants to record their screen easily.
+
+#### What is their previous knowledge?
+
+- Basic computer knowledge needed.
+- Regular users (Designers and simple developers)
+- Novice users (less than 2 hours every day on a desktop or lap.top)
+- Advanced users (Designers and developers)
+- People with no background about computers who want to record their screen.
+#### what software is needed
+
+- Windows OS (Operating System).
+
+#### What are the procedures?
+
+    1. Launch your "Xbox Game Bar" application.
+    2. Screen Capture the desired clip.
+    3. Configure your Hot Key Settings.
+
+
+## How to Backup and Restore your files with file history.
+
+> _We are going to implement a reader oriented document demonstrating the steps necessary to complete a certain task._ 
+#### Who are the intended users?
+
+- People who want to have interval saving of their files.
+- Designers and Developers who need backups for multiple different systems in case of failure.
+- People looking to backup their system.
+
+#### What is their previous knowledge?
+
+- High understanding (Just here for the trick)
+- Regular users (Designers and simple developers)
+- Novice users (less than 2 hours every day on a desktop or laptop)
+- People with no background about computers who want to backup their files.
+
+#### what software is needed
+
+- Windows 10 OS (Operating System)
+
+#### What are the procedures?
+
+    1. Enable Windows File History for your disk drive.
+    2. Set the backup configurations.
+    3. Manage your backup list.
+    4. Backup your files.
+    5. Restore files from a backup.

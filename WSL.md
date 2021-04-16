@@ -48,20 +48,20 @@ ___
 
 Linux Subsystem was originally created by Microsoft to run android apps on Windows. This project was shutdown and Microsoft imported this module as a feature for Windows 10. 
 
-1. In order to install WSL via the simplified method, you need to signup for the Insider Program to access this feature. The signup process is well-explained in the [Microsoft's website](https://insider.windows.com/getting-started).
+1) In order to install WSL via the simplified method, you need to signup for the Insider Program to access this feature. The signup process is well-explained in the [Microsoft's website](https://insider.windows.com/getting-started).
 
 > 2.2 Your installed version of Windows 10 should be build 20262 or higher.
 
-2. You can update your windows from Startup menu by searching "windows update" and clicking "check for updates" button.
+2) You can update your windows from Startup menu by searching "windows update" and clicking "check for updates" button.
 
 <img src="./assets/linux/Windows_update.png" alt="CMD_ADMIN" width="700"/><br><br>
 
 >2.3 Enter the following command in your Terminal to begin the installation.
 
-3. After the following requirements are in place, open the windows command prompt (CMD) with administrator privileges from the Startup menu .
+3) After the following requirements are in place, open the windows command prompt (CMD) with administrator privileges from the Startup menu .
 
 <img src="./assets/linux/CMD_ADMIN.png" alt="CMD_ADMIN" width="700"/><br><br>
-4.
+4)
 ```
     wsl --install
 ```
@@ -69,7 +69,7 @@ Linux Subsystem was originally created by Microsoft to run android apps on Windo
 ```
     wsl --install -d /Distribution Name/
 ```
-5. Your WSL should be ready after the restart. Open the installed Linux app and it should finalize the setup automatically.
+5) Your WSL should be ready after the restart. Open the installed Linux app and it should finalize the setup automatically.
 
 <img src="./assets/linux/Terminal.png" alt="CMD_ADMIN" width="1000px" /><br><br>
 
@@ -82,12 +82,12 @@ Please note Installing WSL using this method could be done on any version of win
 
 > 3.1 Enable the Windows Subsystem for Linux
 
-1. To enable this module for windows we need to use the Windows PowerShell.
+1) To enable this module for windows we need to use the Windows PowerShell.
 Search "powershell" in the Startup menu and run PowerShell as an administrator.
 
 <img src="./assets/linux/Powershell.png" alt="CMD_ADMIN" width="700px" /><br><br>
 
-2. Enter the following command to enable Linux Subsystem on your device.
+2) Enter the following command to enable Linux Subsystem on your device.
 ```
     dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart 
 ``` 
@@ -101,11 +101,11 @@ Search "powershell" in the Startup menu and run PowerShell as an administrator.
 
 In order to run WSL 2 you need to have a certain version of windows or higher based on your system architecture type.
 
-3. To check your system type use the command prompt window from the last step and enter the following command:
+3) To check your system type use the command prompt window from the last step and enter the following command:
 ```
     systeminfo | find "System Type"
 ```
-4. Then you can check the version of your windows using the command below in the PowerShell:
+4) Then you can check the version of your windows using the command below in the PowerShell:
 ```
     ver
 ```
@@ -120,26 +120,26 @@ Now according to the table below, check if your windows needs to be updated befo
 
 > **3.3 Enable Virtual Machine feature**
 
-5. Using the PowerShell window from the last steps, run the following command to enable the Windows Hyper V feature to run the Linux as a virtual machine.
+5) Using the PowerShell window from the last steps, run the following command to enable the Windows Hyper V feature to run the Linux as a virtual machine.
 ```
     dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 ```
-6. After the installation is finished, restart your computer to complete the installation.
+6) After the installation is finished, restart your computer to complete the installation.
 
 > **3.4 Download the Linux kernel update package**
 
-7. Now based on your system structure on section 3.2, you need to download and install the compatible Linux kernel package update using the links below:
+7) Now based on your system structure on section 3.2, you need to download and install the compatible Linux kernel package update using the links below:
 
 -[ x64 machines](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi)
 
 -[ ARM64 machines](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_arm64.msi)
 
-8. After downloading the file, simply open the executable file and follow the wizard to complete the installation.
+8) After downloading the file, simply open the executable file and follow the wizard to complete the installation.
 
 Now you can go ahead and set your WSL version to 2.<br><br>
 > **3.5 Set WSL 2 as your default version**
 
-9. Using the PowerShell window, execute the following command.
+9) Using the PowerShell window, execute the following command.
 
 ```
 wsl --set-default-version 2
@@ -151,7 +151,7 @@ This command will set the default WSL version to 2 for every Linux system that y
 
 Now your Windows is setup and ready to take in your new Linux OS as Sub-system running along with the Windows.
 
-10. To download your Linux distribution navigate to [Microsoft Store](https://aka.ms/wslstore) and search for your desired Linux . I will be using Ubuntu in this example.
+10) To download your Linux distribution navigate to [Microsoft Store](https://aka.ms/wslstore) and search for your desired Linux . I will be using Ubuntu in this example.
 
 Here is a list of supported Linux systems:
 
@@ -175,7 +175,7 @@ Here is a list of supported Linux systems:
 
 When you open your Linux for the first time, it might take a while to decompress all the packages and complete the installation but you just need to wait for this operation once.
 
-11. After, it should ask you a username and password only for this particular Linux environment.
+11) After, it should ask you a username and password only for this particular Linux environment.
 Enter the username and password for your Linux environment.
 
 <img src="./assets/linux/UbuntuUser.png" alt="CMD_ADMIN" width="700px" /><br><br>

@@ -1,31 +1,43 @@
 
-
+## Table of Contents
 
 1. [Introduction](#Intro)
     1. Is this for you?
     2. Prerequisites
 
+2. [Launch your "Xbox Game Bar" application](#Task1)
+    1.  in the task bar, search for Xbox Game Bar 
+    2.  Launch the game bar
+
+3. [Screen Capture the desired clip](#Task2)
+    1.  Find the capture window
+    2.  Click the record button
+    3.  Confirm the status of your recording
+    4. Click the stop button to finish recording your clip
+    5. click the pop-up notification
+    6. Watch your recording
+
+3. [Configure your Hot Key Settings](#Task3)
+    1.  Go to task bar and search for "game bar setting"
+    2.  Configure your hot key shortcut
+
+4. [Conclusion](#outro)
+
+
+
 <br>
 
-## Table of Contents
-|    |     |
-|----------|:-------------:
-| Task 1 |  Launch your "Xbox Game Bar" application
-| Task 2 |   Screen Capture the desired clip
-| Task 3 |  Configure your hot key settings
 
-<br />
-
-
-
+___
 ## Introduction
+___
 
 These instructions will show you how to use Windows' built-in "Xbox Game Bar" application 
 to launch, capture, and configure your first screen recording. The application makes recording your screen 
 extremely easy. It's used to record absolutely anything displayed on your screen - not only specific to video games.  
 <br>
 
->## Is This Guide for You?
+>### Is This Guide for You?
 
 <br>
 
@@ -36,11 +48,11 @@ Windows OS.
 
 <br />
 
->## Prerequisites:
+>### Prerequisites:
 
 <br />
 
-### _To follow these instructions, you will need:_
+#### _To follow these instructions, you will need:_
 
 - A computer with a Windows Operating System.
 - A keyboard and mouse/trackpad attached to computer. 
