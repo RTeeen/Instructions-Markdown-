@@ -1,8 +1,8 @@
 <div style="display:flex; justify-content: space-between;">
-<a href="/WSL"><button style="width:100px; height:30px;">WSL</button></a>
-<a href="/Linux"><button style="width:120px; height:30px;">Media Creation</button></a>
-<a href="/Ditto"><button style="width:120px; height:30px;">Ditto Clipboard</button></a>
-<a><button style="width:100px; height:30px;"></button></a>
+<a href="/Instructions-Markdown-/WSL"><button style= "background-color: tomato; border-radius:20px; width:100px; height:30px;">WSL</button></a>
+<a href="/Instructions-Markdown-/Linux"><button style="background-color: green; border-radius:20px;  width:120px; height:30px;">Media Creation</button></a>
+<a href="/Instructions-Markdown-/Ditto"><button style="background-color: blue; border-radius:20px; width:120px; height:30px;"><strong>Ditto Clipboard</strong></button></a>
+<a href="/Instructions-Markdown-/screenCapture"><button style=" background-color: yellow; border-radius:20px; width:120px; height:30px;">Screen Capture</button></a>
 <a><button style="width:100px; height:30px;"></button></a>
 </div>
 
@@ -77,11 +77,11 @@
 
 #### What are the procedures?
 
-1. Download the Linux Distribution of your Choice
-2. Download and install __Rufus__ to create a bootable installer
-3. Choose the USB drive and Installer file to create bootable USB. 
-4. Change the boot order in motherboard's BIOS
-5. Boot from the USB drive to begin the Linux installation process.
+    1. Download the Linux Distribution of your Choice
+    2. Download and install __Rufus__ to create a bootable installer
+    3. Choose the USB drive and Installer file to create bootable USB. 
+    4. Change the boot order in motherboard's BIOS
+    5. Boot from the USB drive to begin the Linux installation process.
 
 
 
