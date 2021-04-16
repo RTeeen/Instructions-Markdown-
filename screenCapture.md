@@ -39,7 +39,7 @@ to launch, capture, and configure your first screen recording. The application m
 extremely easy. It's used to record absolutely anything displayed on your screen - not only specific to video games.  
 <br>
 
-## Is This Guide for You?
+>## Is This Guide for You?
 
 This guide is created for beginner, intermediate and advanced users of the Windows Operating System. Only basic computer skills are
 required for this step by step instruction set. There will be a great deal of visual graphics and explanations presented thoroughly throughout the
@@ -71,11 +71,16 @@ Task 1 - Launch your "Xbox Game Bar" application
 
 <br>
 <br>
-The first step to adding a new SSH key to your GitHub Account is checking to see if you have any exsiting SSH keys.
+The first step to launching your "Xbox Game Bar" application is to go down to the task bar and in the search field type in "game bar". You should see a best match appear for the "Xbox Game Bar", click on this to open the app. We will show you visually how to launch this app in a few simple steps. 
+
 <br>
 <br>
 
-1. Open Command Line
+1. Go to task bar and search for "Xbox Game Bar".
+
+
+
+
 
 2. Enter "ls -al ~/.ssh" to see if existing SSH keys are present (_This command lists the files in your .ssh directory, if they exist_)
 
