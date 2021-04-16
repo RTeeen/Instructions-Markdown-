@@ -16,7 +16,7 @@
     5. click the pop-up notification
     6. Watch your recording
 
-3. [ Configure your Hot Key Settings](#Task3)
+3. [Configure your Hot Key Settings](#Task3)
     1.  Go to task bar and search for "game bar setting"
     2.  Configure your hot key shortcut
 

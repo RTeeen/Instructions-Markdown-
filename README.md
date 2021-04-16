@@ -108,10 +108,10 @@
 
 #### What are the procedures?
 
-1. Install Ditto from the Microsoft Store
-2. Set up Ditto for use by putting it onto the taskbar.
-3. Set up keyboard shortcuts for more efficient use.
-4. Change the storage count to allow for almost infinite clipboard history.
+    1. Install Ditto from the Microsoft Store
+    2. Set up Ditto for use by putting it onto the taskbar.
+    3. Set up keyboard shortcuts for more efficient use.
+    4. Change the storage count to allow for almost infinite clipboard history.
 
 
 ## How to Use Xbox Game Bar to Screen Capture on Windows OS
@@ -120,20 +120,24 @@
 
 #### Who are the intended users?
 
-- Anyone with a Windows OS who want to record their screenasily screen record.
+- Anyone with a Windows OS who wants to record their screen easily.
 
 #### What is their previous knowledge?
 
 - Basic computer knowledge needed.
-- RecagularAd users (Designers and simple developers)
+- Regular users (Designers and simple developers)
 - Novice users (less than 2 hours every day on a desktop or lap.top)
-- People with no background about computers who wantrecord their screeniles.
-#### what software is needed- Windows OS (Operating System).
+- Advanced users (Designers and developers)
+- People with no background about computers who want to record their screen.
+#### what software is needed
 
+- Windows OS (Operating System).
 
+#### What are the procedures?
 
-#### What are the procedure
-=s?
+    1. Launch your "Xbox Game Bar" application.
+    2. Screen Capture the desired clip.
+    3. Configure your Hot Key Settings.
 
 
 ## How to Backup and Restore your files with file history.
@@ -154,4 +158,12 @@
 
 #### what software is needed
 
+- Windows 10 OS (Operating System)
+
 #### What are the procedures?
+
+    1. Enable Windows File History for your disk drive.
+    2. Set the backup configurations.
+    3. Manage your backup list.
+    4. Backup your files.
+    5. Restore files from a backup.

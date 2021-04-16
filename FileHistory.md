@@ -10,7 +10,6 @@
     4. Backup your files
 3. [Restore files using Windows File History](#part2)
     1. Restore files from a current backup
-    2. Restore files from a previous backup 
 
 ___
 ## 1. Introduction
@@ -61,7 +60,7 @@ To backup our files using Windows File history, first we need to select the driv
 
 > ### 2.3 Manage your backup list
 
-Next, you can add or remove folders to our backup watchlist manually. 
+5. Next, you can add or remove folders to our backup watchlist manually. 
 
 - Click on a folder name and select "Remove" to stop File History to create backups from that device.
 
@@ -71,7 +70,7 @@ Next, you can add or remove folders to our backup watchlist manually.
 
 > ### 2.4 Backup your files
 
-Now that you added your folders to the list, You can initiate the backup process by clicking on the "Backup now" button under the Overview section at the top.
+6. Now that you added your folders to the list, You can initiate the backup process by clicking on the "Backup now" button under the Overview section at the top.
 
 <img src="./assets/FileHistory/Backup5.png" alt="CMD_ADMIN" width="700px" /><br>
 
@@ -81,36 +80,35 @@ ___
 ## 3. Restore files using Windows File History
 ___
 
-To restore our files using Windows File History, we need to have a backup that Windows File History has access to. If configured correctly, Windows File History saves multiple copies of your files. This means if they become corrupted, you can restore a previous version. Depending on the configuration, Windows File History will either overwrite previous copies with the current version, or save a certain amount of copies for a certain amount of days. You can also configure how often Windows File History saves.
+Now that our files have been backed up, what do we do if something goes wrong with them? After completing part 1, which may take several hours, you have access to your backup.
 
-> ### 3.1 Restore files from a current backup
+To restore our files using Windows File History, we need to have a backup that Windows File History has access to(you will have one after part 1). If configured correctly, Windows File History saves multiple copies of your files. This means if they become corrupted, you can restore a previous version. Depending on the configuration, Windows File History will either overwrite previous copies with the current version, or save a certain amount of copies for a certain amount of days. You can also configure how often Windows File History will save. 
+
+> ### 3.1 Restore files from a backup
 
 Having a current backup means Windows File History has 1 or more backups ready to go. If it only has 1 backup, it means there are no previous copies available. Either way, in this section, all we need is the current version. 
 
 1. In the search bar on your navbar, type in "settings". Open up the app, and press backup.
     
-<img src="./assets/Ditto/MarkdownInstructions15.png" alt="CMD_ADMIN" width="700px" /><br>
+<img src="./assets/FileHistory/MarkdownInstructions15.png" alt="CMD_ADMIN" width="700px" /><br>
 
 2. In the search bar, type "backup", and click on the backup settings. You will be redirected to a different window. Click on more options to get to the next part. 
 
-<img src="./assets/Ditto/MarkdownInstructions16.png" alt="CMD_ADMIN" width="700px" /><br>
+<img src="./assets/FileHistory/MarkdownInstructions16.png" alt="CMD_ADMIN" width="700px" /><br>
 
 3. This will lead us to a page that has the following layout.
 
-<img src="./assets/Ditto/MarkdownInstructions17.png" alt="CMD_ADMIN" width="700px" /><br>
+<img src="./assets/FileHistory/MarkdownInstructions17.png" alt="CMD_ADMIN" width="700px" /><br>
 
 4. Scroll all the way to the bottom and click on the small blue link that says, "Restore files from current backup".
 
-<img src="./assets/Ditto/MarkdownInstructions18.png" alt="CMD_ADMIN" width="700px" /><br>
+<img src="./assets/FileHistory/MarkdownInstructions18.png" alt="CMD_ADMIN" width="700px" /><br>
 
 5. You will be taken to a screen where you can see the versions of files that you have available to you. Click on the version you want, and File History will prompt you. In this case, you want to click on the latest version. 
 
-<img src="./assets/Ditto/MarkdownInstructions19.png" alt="CMD_ADMIN" width="700px" /><br>
+<img src="./assets/FileHistory/MarkdownInstructions19.png" alt="CMD_ADMIN" width="700px" /><br>
 
 Once this is done, you have now restored the files that you needed to restore, were corrupted, or accidentally deleted. File History lets you save at intervals so you always have a latest copy of your files.
 
-> ### 3.2 Restore files from a previous backup
-
-Similarly to the first step, we have to navigate to the same screen. Type into the search bar on your navbar  and go to settin
 
 
