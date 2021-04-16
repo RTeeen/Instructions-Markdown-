@@ -1,25 +1,11 @@
 
-# Table of Contents
+
 
 1. [Introduction](#Intro)
     1. Is this for you?
     2. Prerequisites
-<!-- 2. [Simplified Version](#method1)
-    1. Join the Windows Insider Program
-    2. Update your Windows
-    3. Run the install command through CMD
-3. [Manual Version](#method2)
-    1. Enable the Windows Subsystem for Linux
-    2. Check requirements for running WSL 2
-    3. Enable Virtual Machine feature
-    4. Download the Linux kernel update package
-    5. Set WSL 2 as your default version
-    6. Install your Linux distribution of choice -->
 
-![image of ssh key](assets/SSH/SSHKey.png)
-
-<br />
-
+<br>
 
 ## Table of Contents
 |    |     |
@@ -41,6 +27,8 @@ extremely easy. It's used to record absolutely anything displayed on your screen
 
 >## Is This Guide for You?
 
+<br>
+
 This guide is created for beginner, intermediate and advanced users of the Windows Operating System. Only basic computer skills are
 required for this step by step instruction set. There will be a great deal of visual graphics and explanations presented thoroughly throughout the
 user documentation. No need to spend any money since the application is completely free to use and already comes pre installed on your 
@@ -48,7 +36,7 @@ Windows OS.
 
 <br />
 
-## Prerequisites
+>## Prerequisites:
 
 <br />
 
@@ -76,58 +64,148 @@ The first step to launching your "Xbox Game Bar" application is to go down to th
 <br>
 <br>
 
-1. Go to task bar and search for "Xbox Game Bar".
+>1. Go to the task bar and within the search field type "Xbox Game Bar".
 
+<br>
 
+![image of ssh key](assets/ScreenRecord/Task1Step1.png)
 
+<br>
 
-
-2. Enter "ls -al ~/.ssh" to see if existing SSH keys are present (_This command lists the files in your .ssh directory, if they exist_)
+>2. Launch the app by clicking on the "Xbox Game Bar" application. 
 
  <br>
   
-![step2](assets/SSH/Task1Step2.jpeg)
+![step2](assets/ScreenRecord/Task1Step2.png)
 
 <br>
-
-3. Check the directory output to see if you already have a public SSH key. The filenames of the public keys are one of the following:
-
-- id_rsa.pub (_most common_)
-- id_ecdsa.pub
-- id_ed25519.pub
-
-<br>
-
-![step3](assets/SSH/Task1Step3.jpeg)
-
-<br>
-
-If you don't see an existing public and private key pair, then you can generate a new SSH key.
 
 ---
-**Tip:**
-
-<mark>If you receive an error that ~/.ssh doesn't exist, don't worry! We'll create it when we generate a new SSH key.
+**Note:** You can also launch Screen Recorder by pressing the hot key shortcut --> (Windows Logo Key + G) 
 
 ---
 
 <br>
+
+![step3](assets/ScreenRecord/Hotkeycode.jpeg)
+
 <br>
 
+
+
+
+
+<br>
+<br>
+
+---
 
  <span style="font-family:pap; font-size:3em;">
-Task 2 - Generate a new SSH key and adding it to the ssh-agent
+Task 2 -  Screen Capture the desired clip
  </span>
 
 <br>
 <br>
 
+Now that you have launched your Xbox Game Bar, you must find the capture window located in the top left corner of the interface. In the capture window you will find a record button, this is what you will click to video capture your screen. 
+<br>
+<br>
+
+>1. Find the capture window in top left of your screen.
+
+<br>
+
+![image of ssh key](assets/ScreenRecord/Task2Step1.png)
+
+<br>
+
+>2. Click the record button located near the middle of the capture window to start your recording.
+
+ <br>
+  
+![step2](assets/ScreenRecord/Task2Step2.png)
+
+<br>
+
+>3. Confirm that your screen is successfully recording, indicated by the red recording button that should be located on the right side of your screen. 
+
+<br>
+
+![step2](assets/ScreenRecord/Task2Step3.png)
+
+<br>
+
+>4. Once your done with your recording, Click the stop button, and your clip will be officially recorded. 
+
+
+<br>
+
+![step2](assets/ScreenRecord/Task2Step4.png)
+
+<br>
+
+---
+**Tip:** Once you stop the recording, get ready to click on the notification that will pop up. 
+
+---
+
+<br>
 
 
 
 
+>5. Click on the "Game Clip Recorded" notification that appears to open up file explorer
+
+<br>
+
+![step2](assets/ScreenRecord/Task2Step5.png)
+
+<br>
+
+>6. Here you can watch your recording from the file explorer, move your recording to a preferred folder, or delete your recording.
+
+<br>
+
+![step2](assets/ScreenRecord/Task2Step6.png)
+
+<br>
+
+<span style="font-family:pap; font-size:3em;">
+Task 3 -  Configure your Hot Key Settings
+ </span>
+
+<br>
+<br>
+
+Upon successfully learning to capture your screen, you can now configure your hot key shortcut. By changing your hot key shortcut, your able to maximize your productivity and personalize your hot key shortcut to your liking.
+<br>
+<br>
+
+>1. Go to the task bar and within the search field type "game bar settings". Click on the game bar settings app.
+
+<br>
+
+![image of ssh key](assets/ScreenRecord/Task3Step1.png)
+
+<br>
+
+>2. Once you click on game bar settings, you'll be directed to a the settings page where you can adjust all sorts of xbox game bar settings. This includes changing the hot key shortcuts. You can also set hot key for recording or for taking a screenshot. 
+
+ <br>
+  
+![step2](assets/ScreenRecord/Task3Step2.png)
+
+<br>
 
 
+
+<br>
+
+# Conclusion
+
+### Once you have changed your preferred hot key shortcut, you have completed the tutorial. Although the Xbox screen recorder is not the best recorder but it comes free and pre-installed with windows and does a decent job. When your in a pickle, this is a fantastic screen recorder to use.
+
+<br>
 
 # Glossary
 
@@ -142,4 +220,11 @@ Task 2 - Generate a new SSH key and adding it to the ssh-agent
 ### Windows is a desktop operating system developed by MIcrosoft. 
 
 <br>
+
+## **Interface**
+
+###  the means by which interaction or communication is achieved at.
+
+<br>
+
 
