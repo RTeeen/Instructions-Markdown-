@@ -100,7 +100,7 @@
 
 #### What are the procedures?
 
-1. Install Ditto from the Microsoft Store
+1. Install Ditto from the Microsoft Store.
 2. Set up Ditto for use by putting it onto the taskbar.
 3. Set up keyboard shortcuts for more efficeint use.
 4. Change the storage count to allow for almost infinite clipboard history.
