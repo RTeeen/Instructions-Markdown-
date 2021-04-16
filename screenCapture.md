@@ -215,7 +215,7 @@ Upon successfully learning to capture your screen, you can now configure your ho
 
 # Conclusion
 
-### Once you have changed your preferred hot key shortcut, you have completed the tutorial. Although the Xbox screen recorder is not the best recorder but it comes free and pre-installed with windows and does a decent job. When your in a pickle, this is a fantastic screen recorder to use.
+### Once you have changed your preferred hot key shortcut, you have completed the tutorial. Although the Xbox screen recorder is not the best recorder,it comes free and pre-installed with windows and does a decent job. When your in a pickle, this is a fantastic screen recorder to use.
 
 <br>
 
