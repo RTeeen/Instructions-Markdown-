@@ -11,6 +11,7 @@
     1. Change the boot order in motherboard's BIOS
     2. Boot from the USB drive to begin the Linux installation process.
 
+
 ___
 ## 1. Introduction
 ___
