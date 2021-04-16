@@ -2,7 +2,7 @@
 <a href="/Instructions-Markdown-/WSL"><button style= "background-color: tomato; color:black; border-radius:20px; width:100px; height:60px;">WSL</button></a>
 <a href="/Instructions-Markdown-/Linux"><button style="background-color: green; color:black; border-radius:20px;  width:120px; height:60px;">Media Creation</button></a>
 <a href="/Instructions-Markdown-/Ditto"><button style="background-color: blue; color:black; border-radius:20px; width:120px; height:60px;"><strong>Ditto Clipboard</strong></button></a>
-<a href="/Instructions-Markdown-/screenCapture"><button style=" background-color: color:black; yellow; border-radius:20px; width:120px; height:60px;">Screen Capture</button></a>
+<a href="/Instructions-Markdown-/screenCapture"><button style=" background-color: yellow; color:black; border-radius:20px; width:120px; height:60px;">Screen Capture</button></a>
 <a><button style="width:100px; height:30px;"></button></a>
 </div>
 
