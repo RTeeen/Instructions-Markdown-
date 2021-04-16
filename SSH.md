@@ -57,7 +57,7 @@ Task 1 - Check for existing SSH keys
 
 <br>
 <br>
-The first step to adding a new SSH key to your GitHub Account is checking to see if you have any exsiting SSH keys.
+The first step to adding a new SSH key to your GitHub Account is checking to see if you have any existing SSH keys.
 
 1. Open Terminal
 

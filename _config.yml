@@ -1,0 +1,13 @@
+plugins:
+  - jekyll-relative-hacker
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - WSL.md
+  - Canva.md
+  - SSH.md
+  - index.md
+  - README.md
+
+theme: jekyll-theme-architect
