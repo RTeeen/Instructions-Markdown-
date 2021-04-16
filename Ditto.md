@@ -32,6 +32,7 @@ Have you ever overwritten what was on your clipboard by accident, only to realiz
 <br>
 
 Windows already has a built in function for saving clipboard history, but it maxes out on 25 items and is wiped when your computer restarts. Ditto is superior, allowing you to copy multiple items at the same time, and record almost unlimited amount of clipboard items, through as many restarts as you wish.
+<br><br>
 
 > ### 1.3 Prerequisites
 
@@ -75,10 +76,14 @@ Microsoft store is one of those features that comes automatically installed on W
 
 <img src="./assets/Ditto/MarkdownInstructions5.png" alt="CMD_ADMIN" width="700px" /><br><br>
 
+Ditto is now installed! We can now move forward to figuring out how to use it.
+
+<br>
+
 > ### 2.2  Setting Up Ditto for Use
 <br>
 
-Ditto is essentially ready to be used the moment you install it, however, there are a few things we will want to do to make sure we know how to use it. Let us add Ditto to our task bar for more efficeint use.<br><br>
+Ditto is essentially ready to be used the moment you install it, however, there are a few things we will want to do to make sure we know how to use it. Let us add Ditto to our task bar for more efficient use.<br><br>
 
 1. To add Ditto to your task bar, click on the three dots next to the launch button, and select "pin to taskbar".<br><br>
 
@@ -100,7 +105,7 @@ Ditto is essentially ready to be used the moment you install it, however, there 
 <br>
 <img src="./assets/Ditto/MarkdownInstructions9.png" alt="CMD_ADMIN" width="700px" /><br><br>
 
-5. Now you can copy anything you want, and when it goes to your clipboard, it also goes to ditto! This is what it should look like after you copy some text, and then copy an image.
+5. Now you can copy anything you want, and when it goes to your clipboard, it also goes to Ditto! This is what it should look like after you copy some text, and then copy an image.
 
 <br>
 <img src="./assets/Ditto/MarkdownInstructions10.png" alt="CMD_ADMIN" width="700px" /><br><br>
@@ -122,16 +127,17 @@ In this section, I will guide you on how to set up Ditto so you can get the most
 <br>
 After saving a few items to your clipboard, your Ditto should have a few objects inside. I will guide you through manipulating them in a couple of ways.<br> 
 
-**_tip: if you drag the right hand side of Ditto, you can drag the screen around._ _If you grab the bottom right hand side, you can make the window larger._**
+**_tip: if you drag the right hand side of Ditto, you can drag the screen around._ _If you grab the bottom right hand side, you can make the window larger. If you grab the objects and drag them, they will turn into files. Use ctrl + c to copy the data within._**
 
 <br>
 
-1. The first way to work with these objects is the most useful. We are going to copy the objects that we want into a folder. Select multiple objects in Ditto using ctrl + left click. You will notice a thin blue highlight that is applied when you click on the object. This means the object has been interacted with. from here we can simply hit ctrl + c. We notice that by copying the objects to our clipboard, they do not get re-copied to Ditto. Ditto is not redundant in that way.
+1. The first way to work with these objects is the most useful. We are going to copy the objects that we want. Select multiple objects in Ditto using ctrl + left click. You will notice a thin blue highlight that is applied when you click on the object. This means the object has been interacted with. from here we can simply hit ctrl + c. We notice that by copying the objects to our clipboard, they do not get re-copied to Ditto. Ditto is not redundant in that way.
 
 
 <br>
 <img src="./assets/Ditto/MarkdownInstructions11.png" alt="CMD_ADMIN" width="700px" /><br><br>
 
+Copying multiple objects at once has its benefits. Now that we can do that, let us move forward to our keyboard shortcuts.
 
 > ### 3.2 Keyboard Shortcuts
 
