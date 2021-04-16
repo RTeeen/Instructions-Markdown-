@@ -19,7 +19,7 @@ Linux is a very popular OS in the world. It has some benefits that makes it outs
 
 > ### 1.1 Is this for you?
 
-You might have to go to different places for work everyday and carry your computer with you or, maybe you are a Cyber Security ****** who needs to test the security by attacking the servers using different machines. If you don't have your system with you, you won't be able to access your files, test suites and all the apps you need, to get through your day at work. In this guide, I will show you how to create a bootable USB stick with Linux installed on it which would be bootable from any computer. In other words, your personal files and operating system are on another person's hardware, just by plugging in a USB stick.
+If you work in a IT department or you need to repair or install Linux regularly, you defiantly want to have a small portable installation media. Also, if you just want to install Linux on your system and you don't have a CD/DVD writer optical drive, you could use this instruction to create a bootable Linux installer USB.
 
 > ### 1.2 Prerequisites
 
@@ -87,7 +87,7 @@ You can search the model of your motherboard, look at the manual or just test an
 
 If you press the right key at the right time, this is how most of BIOS settings would look like.
 
-2. Find the settings regarding the boot device priority to set the "removable devices" (Some motherboard actually show the device name) as the first device to boot. 
+2. Find the settings regarding the boot device priority to set the "removable devices" (Some motherboard actually show the device name) as the first device to boot.
 
 <img src="./assets/USBLinux/Boot.jpg" alt="CMD_ADMIN" width="500px"/><br><br>
 
