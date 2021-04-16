@@ -11,7 +11,7 @@
     1.  Copying Multiple Ditto Objects
     2.  Keyboard Shortcuts
     3.  Increasing Ditto Storage
-4. Glossary
+
 <br>
 ___
 ## 1. Introduction
