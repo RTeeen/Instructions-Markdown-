@@ -13,7 +13,7 @@
 
 
 ___
-## 1. Introduction
+## 1) Introduction
 ___
 
 Linux is a very popular OS in the world. It has some benefits that makes it outstanding for different purposes. One of it's most important attributes is being super lightweight. this means we don't need a lot of storage an RAM to run a Linux system. We can take advantage of this and create an portable workstation using Linux.
@@ -30,7 +30,7 @@ You need to have the following ready before proceeding to the installation proce
 - Have **Rufus** installed
 
 ___
-## 2. Create an installation disk
+## 2) Create an installation disk
 ___
 
 > 2.1 Download the Linux Distribution of your Choice
@@ -72,7 +72,7 @@ To create a bootable USB drive, we need to download [Rufus](https://rufus.ie/en_
 Once the operation is completed you will get a notification sound.
 
 ___
-## 3. Boot into the Linux installer
+## 3) Boot into the Linux installer
 ___
 
 In this section I will guide you how to use the install media you created to begin the installing your Linux.

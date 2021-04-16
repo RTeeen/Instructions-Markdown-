@@ -1,4 +1,4 @@
-<div style="display:flex; justify-content: space-between;">
+<div style="display:flex; justify-content: space-between; border-bottom:2px double black; padding: 20px;">
 <a href="/Instructions-Markdown-/WSL"><button style= "background-color: tomato; color:black; border-radius:20px; width:100px; height:60px;">WSL</button></a>
 <a href="/Instructions-Markdown-/Linux"><button style="background-color: green; color:black; border-radius:20px;  width:120px; height:60px;">Media Creation</button></a>
 <a href="/Instructions-Markdown-/Ditto"><button style="background-color: blue; color:black; border-radius:20px; width:120px; height:60px;"><strong>Ditto Clipboard</strong></button></a>
@@ -6,7 +6,10 @@
 <a href="/Instructions-Markdown-/FileHistory"><button style=" background-color: wheat; color:black; border-radius:20px; width:120px; height:60px;">File History</button></a>
 </div>
 
-# **5 Instructions Topics**
+# **Essential Tools in Windows  10**
+
+This documentation is made to discuss 5 essential tools in Windows that you need to know about either as a developer or just a regular user. Learning this document lets you to use your Windows machine like a professional.
+## 5 Instructions Topics
 
 1) How to install Linux sub-system (WSL) on windows.  
 
@@ -19,7 +22,7 @@
 5) How to Backup and Restore your files with file history.
 
 
-## How to install Linux sub-system (WSL) on windows. 
+## 1) How to install Linux sub-system (WSL) on windows. 
 
 > _We are going to implement a reader oriented document demonstrating the steps necessary to complete a certain task._ 
 
@@ -36,7 +39,7 @@
 - Computer Hackers
 - People looking for free software
 
-#### what software is needed
+#### What software is needed?
 
 - Windows 10
 - CMD (Built-in Windows)
@@ -52,8 +55,15 @@
     5. Set WSL 2 as your default version
     6. Install your Linux distribution of choice
 
+#### Refrences
 
-## How to create a installer media disk for any Linux.
+[How to install WSL on Windows 10: Microsoft](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+
+[How to install Windows Subsystem for Linux: Windows Central](https://www.windowscentral.com/install-windows-subsystem-linux-windows-10)
+
+[How to install WSL: Code Fellows](https://codefellows.github.io/setup-guide/windows/)
+
+## 2) How to create a installer media disk for any Linux.
 
 > _We are going to implement a reader oriented document demonstrating the steps necessary to complete a certain task._ 
 
@@ -69,7 +79,7 @@
 - Regular users (Designers and simple developers)
 - People with no background about computers who want to try Linux.
 
-#### what software is needed
+#### What software is needed?
 
 - Windows 10
 - Rufus
@@ -83,8 +93,15 @@
     4. Change the boot order in motherboard's BIOS
     5. Boot from the USB drive to begin the Linux installation process.
 
+#### Refrences
 
-## How to install and setup Ditto Clipboard for Widows 10.
+[Create a bootable USB stick on Windows 10: Ubuntu](https://ubuntu.com/tutorials/create-a-usb-stick-on-windows)
+
+[How to install Windows Subsystem for Linux: Windows Central](https://www.windowscentral.com/install-windows-subsystem-linux-windows-10)
+
+[How to install WSL: Code Fellows](https://codefellows.github.io/setup-guide/windows/)
+
+## 3) How to install and setup Ditto Clipboard for Windows 10.
 
 > _We are going to implement a reader oriented document demonstrating the steps necessary to complete a certain task._ 
 
@@ -114,7 +131,7 @@
     4. Change the storage count to allow for almost infinite clipboard history.
 
 
-## How to Use Xbox Game Bar to Screen Capture on Windows OS
+## 4) How to Use Xbox Game Bar to Screen Capture on Windows OS
 
 > _We are going to implement a reader oriented document demonstrating the steps necessary to complete a certain task._
 
@@ -140,7 +157,7 @@
     3. Configure your Hot Key Settings.
 
 
-## How to Backup and Restore your files with file history.
+## 5) How to Backup and Restore your files with file history.
 
 > _We are going to implement a reader oriented document demonstrating the steps necessary to complete a certain task._ 
 #### Who are the intended users?
