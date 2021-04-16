@@ -12,11 +12,11 @@
     2.  Keyboard Shortcuts
     3.  Increasing Ditto Storage
 
-<br>
 ___
 ## 1. Introduction
-
 ___
+
+
 <br>
 Copy and paste are two of the most used keyboard commands on any computer. Windows OS takes that one step further by introducing an app that saves your copy/paste history. This gives you the ability to use multiple data pieces from different locations all at one time, or recover data that was deleted by copying again. We can take advantage of this to make our daily use of computers a lot easier.
 <br><br>
