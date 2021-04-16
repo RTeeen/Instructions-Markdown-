@@ -116,23 +116,24 @@
 
 ## How to Use Xbox Game Bar to Screen Capture on Windows OS
 
-> _We are going to implement a reader oriented document demonstrating the steps necessary to complete a certain task._ 
+> _We are going to implement a reader oriented document demonstrating the steps necessary to complete a certain task._
+
 #### Who are the intended users?
 
-- Streamers or people who want to easily screen record.
-- Designers and Developers who need to constantly screen record for projects.
-- People looking to setup their Xbox Game Bar so they can take that knowledge further.
+- Anyone with a Windows OS who want to record their screenasily screen record.
+
 #### What is their previous knowledge?
 
-- High understanding (Just here for the trick)
-- Regular users (Designers and simple developers)
-- Novice users (less than 2 hours every day on a desktop or laptop)
-- People with no background about computers who want to backup their files.
-#### what software is needed
+- Basic computer knowledge needed.
+- RecagularAd users (Designers and simple developers)
+- Novice users (less than 2 hours every day on a desktop or lap.top)
+- People with no background about computers who wantrecord their screeniles.
+#### what software is needed- Windows OS (Operating System).
 
 
 
-#### What are the procedures?
+#### What are the procedure
+=s?
 
 
 ## How to Backup and Restore your files with file history.
