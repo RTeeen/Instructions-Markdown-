@@ -4,11 +4,11 @@
 
 2) How to create a installer media disk for any Linux.
 
-3) How to setup and use VSCode Extension LiveShare.
+3) How to install and setup Ditto Clipboard for Widows 10.
 
-4) How to setup your SSH Key on GitHub for cloning repository safely. (Mac)
+4) . (Mac)
 
-5) How to create a style guide on Canva.
+5) .
 
 
 ## How to install Linux sub-system (WSL) on windows. 
